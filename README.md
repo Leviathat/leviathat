@@ -1,16 +1,25 @@
-### Hi there 👋
+# <p style="text-align: center">Hi there 👋, I'm Mura</p>
 
-<!--
-**Leviathat/leviathat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 I'm Backend Developer
 
-Here are some ideas to get you started:
+### Technical Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+#### Backend:
+
+- Django / DRF
+- Docker / docker-compose
+- Nginx
+
+#### Frontend:
+
+- Vue 3
+- VueX
+
+### 🔭 **Nowadays I'm learning aiohttp and ETL proccesses**
+
+## CONTACTS
+
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/nemanedeushed)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/murager-mukanov-61a289204/)
