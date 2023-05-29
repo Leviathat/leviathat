@@ -1,9 +1,7 @@
 # <p style="text-align: center">Hi there 👋, I'm Mura</p>
 
 ## 💻 I'm Backend Developer
-
 ### Technical Skills
-
 ---
 
 #### Backend:
@@ -17,7 +15,7 @@
 - Vue 3
 - VueX
 
-### 🔭 **Nowadays I'm learning aiohttp and ETL proccesses**
+### 🔭 **Nowadays I'm learning SQL, aiohttp and ETL proccesses**
 
 ## CONTACTS
 
