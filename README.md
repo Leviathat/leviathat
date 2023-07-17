@@ -15,7 +15,7 @@
 - Vue 3
 - VueX
 
-### 🔭 **Nowadays I'm learning SQL, aiohttp and ETL proccesses**
+### 🔭 **Looking for internship **
 
 ## CONTACTS
 
