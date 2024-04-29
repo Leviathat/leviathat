@@ -15,7 +15,6 @@
 - Vue 3
 - VueX
 
-### 🔭 **Looking for internship **
 
 ## CONTACTS
 
